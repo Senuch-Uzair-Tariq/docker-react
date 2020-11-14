@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Testing updates There10!
+          This is from the new feature branch!
         </p>
         <a
           className="App-link"
